@@ -70,7 +70,7 @@ conversation_open_user_menu = "What would you like to do?\n" \
                               " squares in the message bar.</i>"
 
 # Conversation: like above, but for administrators
-conversation_open_admin_menu = "You are a 💼 <b>Manager</b> of this store!\n" \
+conversation_open_admin_menu = "You are a 💼 <b>gramsale agent</b> of this store!\n" \
                                "What would you like to do?\n" \
                                "\n" \
                                "<i>Press a key on the bottom keyboard to select an operation.\n" \
