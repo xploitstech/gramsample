@@ -47,9 +47,7 @@ git pull
 git stash pop
 ```
 
-### By redownloading the zip file
 
-If you downloaded `greed` through the zip archive, you can update it by redownloading [the latest version](https://github.com/DarrenWestwood/greed/archive/master.zip) and by moving your `config.ini` and `database.sqlite` (if applicable) files to the new folder.
 
 ## Integrating Bitcoin
 
