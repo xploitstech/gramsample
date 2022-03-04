@@ -1,6 +1,6 @@
 #cynone.com
 
-A customizable Telegram shop bot that accepts bitcoin payments. Demo at https://t.me/TgShopDemoBot
+A customizable Telegram shop bot that accepts bitcoin payments
 
 ![](https://img.shields.io/badge/version-beta-blue.svg)
 
