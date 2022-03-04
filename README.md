@@ -1,4 +1,4 @@
-# greed
+#cynone.com
 
 A customizable Telegram shop bot that accepts bitcoin payments. Demo at https://t.me/TgShopDemoBot
 
@@ -85,7 +85,5 @@ If you downloaded `greed` through the zip archive, you can update it by redownlo
 	* You can now start the greed bot and blockonomics callback from the Heroku Dashboard > Resources.
 	![](assets/images/heroku.png) 
 	* To set the HTTP Callback URL on the Blockonomics Merchants Page, combine the Heroku App URL with `/callback?secret=YOUR_SECRET`
-		eg. https://greed.herokuapp.com/callback?secret=YOUR_SECRET
+		eg. https://gramsalenet.herokuapp.com/callback?secret=YOUR_SECRET
 
-## Credits
-This project is a fork of [greed project](https://github.com/Steffo99/greed) by @Steffo99. We would like to thank @Steffo99 for putting this in public domain. 
